@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="cmdb" label="my table" max_length="40" name="x_cdltd_loaner_req_my_table" type="collection">
+        <element choice="1" label="my column" max_length="50" name="my_column" type="choice">
+            <choice/>
+        </element>
+    </element>
+</database>
