@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Configuration Management (CMDB)" source="com.snc.cmdb">c94628eb551201107f44d7f62dcafef5</dependency>
+        <min_version>1.1</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-21 09:18:51</sys_created_on>
+        <sys_id>b80766a97ddf15107f4413aa7e5f76ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">0d1175187dd311107f4413aa7e5f7676</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-21 09:18:51</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
